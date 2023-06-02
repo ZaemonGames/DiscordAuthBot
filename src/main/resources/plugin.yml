@@ -1,0 +1,4 @@
+name: DiscordAuthBot
+version: '${project.version}'
+main: jp.zaemongames.discordauthbot.DiscordAuthBot
+api-version: 1.19
